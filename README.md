@@ -12,7 +12,7 @@ In diesem Crashkurs werden die grundlegenden Werkzeuge vermittelt um mithilfe de
 
 1. Die Anaconda Python Distribution laden, Python Version 3.6 auswählen: <https://www.anaconda.com/download/>
 1. Den Installationsanweisungen folgen: <https://docs.anaconda.com/anaconda/install/>
-1. Einen Jupyter Notebook-Server starten, entweder im Terminal 'jupyter notebook' laufen lassen oder den Anaconda Navigator nutzen: <https://docs.anaconda.com/anaconda/navigator/>
+1. Einen Jupyter Notebook-Server starten, entweder im Terminal `jupyter notebook` laufen lassen oder den Anaconda Navigator nutzen: <https://docs.anaconda.com/anaconda/navigator/>
 1. Der Jupyter Server erstellt ein neues Fenster im Browser
 
 ## Ablauf
