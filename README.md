@@ -18,7 +18,7 @@ In diesem Crashkurs werden die grundlegenden Werkzeuge vermittelt um mithilfe de
 ## Ablauf
 
 * **Dienstag, 4. Dezember 2018, 9 Uhr c.t.**, Einführung Python
-* **Dienstag, 11. Dezember 2018, tbd**, tbd
+* **Dienstag, 11. Dezember 2018, 9 Uhr c.t.**, tbd
 * **Dienstag, 18. Dezember 2018, tbd**, tbd
 
 ## Kontakt
