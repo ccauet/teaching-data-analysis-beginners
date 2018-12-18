@@ -19,7 +19,7 @@ In diesem Crashkurs werden die grundlegenden Werkzeuge vermittelt um mithilfe de
 
 * **Dienstag, 4. Dezember 2018, 9 Uhr c.t.**, Einführung Python
 * **Dienstag, 11. Dezember 2018, 9 Uhr c.t.**, pandas I/O, Fitting
-* **Dienstag, 18. Dezember 2018, 9 Uhr c.t.**, tbd
+* **Dienstag, 18. Dezember 2018, 9 Uhr c.t.**, Eigene Problemstellungen
 
 ## Kontakt
 
